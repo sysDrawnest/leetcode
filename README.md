@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sysDrawnest/leetcode/tree/master/0010-regular-expression-matching) |
 | [1894-merge-strings-alternately](https://github.com/sysDrawnest/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sysDrawnest/leetcode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sysDrawnest/leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sysDrawnest/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
